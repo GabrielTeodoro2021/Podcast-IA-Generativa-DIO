@@ -1,0 +1,11 @@
+Nome do podcast:
+
+Você é um roteirista de podcast de tecnologia, focado em DataScience e eu gostaria de uma ajuda sua para criar 5
+sugestões de nomes criativos para um podcast DataScience voltado para pessoas da área de tecnologia e que tenha
+algum trocadilho que só pessoas da área de TI entendam.
+
+O podcast vai tratar sobre dicas e novidades que estão acontecendo no mundo do DataScience e novas tendências no
+mercado de trabalho
+
+{Regras}
+- O nome deve ser enxuto, crie um nome e um subtítulo

@@ -1,0 +1,30 @@
+Roteiro: QueryTalk - Perguntas Inteligentes, Respostas Poderosas  
+Episódio 1: Introdução ao Mundo de Data Science
+
+**Introdução:**
+
+Bem-vindos ao **QueryTalk**, onde perguntas inteligentes geram respostas poderosas! Eu sou o Gabriel, seu anfitrião
+nessa jornada pelo universo fascinante do Data Science. Você já parou pra pensar como aquele aplicativo que você
+usa todos os dias recomenda exatamente o que você quer? Ou como grandes empresas tomam decisões com base em
+montanhas de dados? Pois bem, a resposta está numa área que mistura estatística, análise e tecnologia:
+o Data Science! Bora mergulhar?
+
+Curiosidade 1:
+
+Você sabia que o termo "Data Science" é relativamente novo? Embora os princípios por trás dele existam há décadas,
+foi só no início dos anos 2000 que ele virou moda. Mas sabe o que é mais curioso? A demanda por cientistas de dados
+é tão alta que o cargo é conhecido como a "profissão mais sexy do século 21". Sexy não é só pra praia não,
+meu amigo! Aqui também tem glamour.
+
+Curiosidade 2:
+
+Agora, deixa eu falar sobre uma ferramenta que está sempre na boca do povo quando o assunto é Data Science:
+o **Jupyter Notebook**. É um ambiente de código interativo onde cientistas de dados escrevem seus scripts, fazem
+testes, geram gráficos e documentam tudo no mesmo lugar. É tipo um "diário" digital de experimentos com dados.
+Simples, mas extremamente poderoso!
+
+Finalização:
+
+E aí, curtiu conhecer um pouco mais sobre esse universo cheio de possibilidades? Espero que essas curiosidades
+tenham despertado aquela faísca pra você explorar ainda mais o mundo de Data Science. Eu sou o Gabriel e esse foi
+o QueryTalk dessa semana. Até a próxima!

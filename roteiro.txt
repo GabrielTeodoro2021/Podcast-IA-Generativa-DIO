@@ -1,9 +1,9 @@
 Roteiro: QueryTalk - Perguntas Inteligentes, Respostas Poderosas  
 Episódio 1: Introdução ao Mundo de Data Science
 
-**Introdução:**
+Introdução:
 
-Bem-vindos ao **QueryTalk**, onde perguntas inteligentes geram respostas poderosas! Eu sou o Gabriel, seu anfitrião
+Bem-vindos ao QueryTalk, onde perguntas inteligentes geram respostas poderosas! Eu sou o Gabriel, seu anfitrião
 nessa jornada pelo universo fascinante do Data Science. Você já parou pra pensar como aquele aplicativo que você
 usa todos os dias recomenda exatamente o que você quer? Ou como grandes empresas tomam decisões com base em
 montanhas de dados? Pois bem, a resposta está numa área que mistura estatística, análise e tecnologia:
@@ -19,7 +19,7 @@ meu amigo! Aqui também tem glamour.
 Curiosidade 2:
 
 Agora, deixa eu falar sobre uma ferramenta que está sempre na boca do povo quando o assunto é Data Science:
-o **Jupyter Notebook**. É um ambiente de código interativo onde cientistas de dados escrevem seus scripts, fazem
+o Jupyter Notebook. É um ambiente de código interativo onde cientistas de dados escrevem seus scripts, fazem
 testes, geram gráficos e documentam tudo no mesmo lugar. É tipo um "diário" digital de experimentos com dados.
 Simples, mas extremamente poderoso!
 
